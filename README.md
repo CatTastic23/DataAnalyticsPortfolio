@@ -26,11 +26,11 @@
 - [Additional Information For cards in this set](https://en.digimoncard.com/cardlist/?search=true&category=508006)
 * Current Stages/Progress: Self created Data has been collected. Analysis coming soon
 * I plan to analyze the distribution of cards within a case. A case consists of 12 booster boxes and each booster box contains 24 booster packs. Inside those packs are a 12 randomized cards from this set. 
-* How the data was collected, brief intro as a filler due to lacking analysis. I bought a case for myself opened 12*24(288) packs and entered data for each individual card with in that pack. 
+* How the data was collected, brief intro as a filler due to lacking analysis. I bought a case for myself opened 12*24(288) packs and entered data for each individual card(3456 cards total) within that pack. 
 * **Some initial questions I thought of that led up to this idea/analysis.** 
-*    Are there certain packs within a box that has higher chances or pulling rarer cards? (booster placement in box increase chances in Special rares or secret rares)
-*    What consititutes a card to be common(C), Uncommon(U), rare(R), Special/Super Rare(SR), Secret Rare(Sec), and lastly Alternate Art? (ratios of each category to compare)
-*    In my experience, I noticed in previous box openings that certains cards would show up in pairs in pack. So the questions are there similar card combinations with packs? If so which cards, and how closely related are they to the other packs that consist a certain card?
+*    Are there certain packs within a box that have a higher chance of pulling rarer cards? (booster pack placement within a booster box increase chances in Special rares or secret rares, 24 packs in total, 12 on the Right, 12 on the left. Denoted by R1-R12 & L1-L12)
+*    What consititutes a card to be Common(C), Uncommon(U), Rare(R), Special/Super Rare(SR), Secret Rare(Sec), and lastly Alternate Arts? (ratios of each category to compare)
+*    In my experience, I noticed that in previous boxes that certains cards would show up in pairs within a booster pack. So the question is, are there similar card combinations within packs? If so which cards, and how closely related are they to the other booster packs that consist the same card?
 *    Much more to be answered.   
 
 
